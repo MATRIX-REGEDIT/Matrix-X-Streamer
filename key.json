@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Owner"
+    },
+    "Ghost-Elite-Streamer": {
+      "hwid": "RESET",
+      "expireDate": "2026-07-06",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Paid User"
     }
   }
 }
